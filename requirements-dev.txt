@@ -1,0 +1,5 @@
+ruff==0.1.13
+black==24.3.0
+pytest==7.4.4
+
+mysql-connector-python==8.2.0
